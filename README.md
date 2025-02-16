@@ -3,25 +3,16 @@
 Scripts para jogos de FPS no roblox
 
 ### Aimbot
-
-Ativa o aimbot.
-
 ```lua
 loadstring(game:HttpGet('https://raw.githubusercontent.com/ksx1s/ksx-s-fps/refs/heads/main/scripts/Aimbot'))()
 ```
 
 ### Aimbot+
-
-Ativa o aimbot melhorado.
-
 ```lua
 loadstring(game:HttpGet('https://raw.githubusercontent.com/ksx1s/ksx-s-fps/refs/heads/main/scripts/Aimbot+'))()
 ```
 
 ### ESP
-
-Ativa o ESP.
-
 ```lua
 loadstring(game:HttpGet('https://raw.githubusercontent.com/ksx1s/ksx-s-fps/refs/heads/main/scripts/ESP'))()
 ```
